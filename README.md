@@ -77,7 +77,7 @@ Summary Changelog:
 Other changes tested:
 - map size increase > 1.2 per level; however, this made a significant impact on the difficulty of the game and the size of the maps got too large too fast, so we decided to keep it at this level for performance and overall gameplay
 - decrease the number of items multiplier; however, this made the higher levels extremely difficult as navigating through extremely large mazes became significantly harder with having less items especially the wall-breaker
-
+  
 
 
 
