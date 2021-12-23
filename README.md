@@ -1,5 +1,4 @@
-# team10
-This commit is our submission for M4.
+# Maze Runners
 
 ### Notes
 
