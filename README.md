@@ -1,5 +1,4 @@
 # Maze Runners
-This commit is our submission for M4.
 
 ### Notes
 
